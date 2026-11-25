@@ -1,0 +1,6 @@
+{
+  "name": "Construction Project Accounting",
+  "description": "Mobile-first construction project accounting and expense management application with theka tracking, material expenses, contractor ledgers, and real-time reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
